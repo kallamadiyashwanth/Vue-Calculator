@@ -4,7 +4,7 @@ A responsive calculator web application built using Vue.js. This project demonst
 
 Live Demo
 
-🔗 
+🔗 Deployed Application: https://vue-calculator-sand.vercel.app/
 
 GitHub Repository
 
