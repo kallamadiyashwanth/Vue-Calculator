@@ -1,4 +1,4 @@
-Vue Calculator
+
 
 A responsive calculator web application built using Vue.js. This project demonstrates the implementation of reactive user interfaces, event handling, dynamic data binding, and arithmetic operations using modern frontend development practices.
 
