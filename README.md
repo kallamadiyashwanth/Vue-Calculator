@@ -1,38 +1,23 @@
-# Calculator
+Vue Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+A responsive calculator web application built using Vue.js. This project demonstrates the implementation of reactive user interfaces, event handling, dynamic data binding, and arithmetic operations using modern frontend development practices.
 
-## Recommended IDE Setup
+Live Demo
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+🔗 
 
-## Recommended Browser Setup
+GitHub Repository
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+🔗 Repository: https://github.com/kallamadiyashwanth/Vue-Calculator
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Features
+-> Perform basic arithmetic operations
+  -> Addition
+  -> Subtraction
+  -> Multiplication
+  -> Division
+-> Real-time calculation updates
+-> Responsive user interface
+-> Interactive button-based input system
+-> Reactive state management using Vue.js
+-> Clean and user-friendly design
